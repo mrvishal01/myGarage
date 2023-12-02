@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "11030148304",
+    "project_id": "mygarage-8550b",
+    "storage_bucket": "mygarage-8550b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11030148304:android:7cbcd06535f97ece701ad5",
+        "android_client_info": {
+          "package_name": "com.example.my_garage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc2n1Rc5dxT9QpIKqRjC98GHFhAQ4ZCFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
